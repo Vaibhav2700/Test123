@@ -15,7 +15,7 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2020-10-29T11:49:51.378Z"
+         lastModifiedDate="2020-10-29T11:58:04.361Z"
          name="SimulatorGitThing"
          projectName="Simulator"
          published="false"
@@ -107,12 +107,12 @@
                             </BranchName>
                             <CommitEmail>
                             <![CDATA[
-                            jdoe@ptc.com
+                            chsneha2388@gmail.com
                             ]]>
                             </CommitEmail>
                             <CommitName>
                             <![CDATA[
-                            Vaibhav
+                            chsneha2388
                             ]]>
                             </CommitName>
                             <FileRepository>
@@ -122,7 +122,7 @@
                             </FileRepository>
                             <GitRepoURL>
                             <![CDATA[
-                            https://github.com/Vaibhav2700/Test0301
+                            https://github.com/Vaibhav2700/Test123.git
                             ]]>
                             </GitRepoURL>
                             <Password></Password>
